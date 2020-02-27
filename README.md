@@ -24,7 +24,6 @@ Thank you for using the atlas, please help improving and spread the word.
 | Animal Diversity Web                    | https://animaldiversity.org/
 | Cambridge Dictionary                    | https://dictionary.cambridge.org/
 | DK findout                              | https://www.dkfindout.com/us/ 
-| eBird                                   | https://ebird.org/explore   
 | Encyclopedia of Life                    | https://eol.org/
 | Encyclopædia Britannica                 | https://www.britannica.com/ 
 | Integrated Taxonomic Information System | https://www.itis.gov/
