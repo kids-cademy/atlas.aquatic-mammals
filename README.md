@@ -1,4 +1,4 @@
-# atlas.wild-birds
+# atlas.aquatic-mammals
 
 Aquatic Mammals Atlas presents interesting facts with images and sounds of some from existing aquatic mammals like whales, dolphins, seals and sirenians. 
 
